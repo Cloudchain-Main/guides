@@ -40,12 +40,21 @@
 
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 Info about this repo
 
+
+
+<!-- DONATIMG -->
+## Support The Guides
+
+If these guides helped you out, you can buy us a coffee by sending HNS to this address:
+`` or `hs1qrnr28vfdt6v3sf2qkg8vsz5xwjzu0fsc2u9kan`
+
+or BTC to these:
+`` or `bc1qdy5qu6v7kawetczged0ztp5ap5ffy842qkcjkt`
 
 <!-- CONTRIBUTING -->
 ## Contributing
