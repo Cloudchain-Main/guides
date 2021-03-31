@@ -53,10 +53,10 @@ Info about this repo
 If these guides helped you out, you can buy us a coffee by sending 
 
 HNS to these addresses:
-`` or `hs1qrnr28vfdt6v3sf2qkg8vsz5xwjzu0fsc2u9kan`
+`hs1qk9gguef35acumwhm4ntppdty5prwfpf9tdg3u0` or `hs1qrnr28vfdt6v3sf2qkg8vsz5xwjzu0fsc2u9kan`
 
 or BTC to these:
-`` or `bc1qdy5qu6v7kawetczged0ztp5ap5ffy842qkcjkt`
+`bc1qkwsdnujehafaerhwv2uutgj868k7nxn0l466jf` or `bc1qdy5qu6v7kawetczged0ztp5ap5ffy842qkcjkt`
 
 <!-- CONTRIBUTING -->
 ## Contributing
