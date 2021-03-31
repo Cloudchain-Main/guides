@@ -50,7 +50,9 @@ Info about this repo
 <!-- DONATIMG -->
 ## Support The Guides
 
-If these guides helped you out, you can buy us a coffee by sending HNS to this address:
+If these guides helped you out, you can buy us a coffee by sending 
+
+HNS to these addresses:
 `` or `hs1qrnr28vfdt6v3sf2qkg8vsz5xwjzu0fsc2u9kan`
 
 or BTC to these:
