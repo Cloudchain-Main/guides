@@ -16,8 +16,6 @@
   <p align="center">
     Guides made by the Cloudchain team regarding various services and applications.
     <br />
-    <a href="https://github.com/Cloudchain_Main/guides"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/Cloudchain_Main/guides/issues">Report Bug</a>
     ·
@@ -32,11 +30,11 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#getting-started">Handshake Guides</a>
+      <ul>
+        <li><a href="#prerequisites">HSD, Unbound & Pihole Setup</a></li>
+      </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
